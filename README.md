@@ -36,4 +36,4 @@ Tmux's native prefix is a bit harsh on fingers, so `Ctrl + a` is being used as a
 
 ### Screenshot
 
-TODO
+![screenshot](https://github.com/umayr/tmux/raw/master/screenshot.png)
